@@ -222,3 +222,6 @@ fetcher.submit({
   metaobjectId: selectedDiscount.id,
   discountId: selectedDiscount.discount_id,
 });
+
+
+// you can get the form from the main code .
